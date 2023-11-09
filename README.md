@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, and WordPress**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and WordPress**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python and Cloud**
 
 - 📫 How to reach me **malikusama364585@gmail.com**
   <br>
