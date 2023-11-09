@@ -1,4 +1,4 @@
-![logo](https://github.com/malikbabarr/malikbabarr/blob/main/malik%20babar%20linkedin%20banner.jpg)
+![logo](https://github.com/Usama-Akhtar/Usama-Akhtar/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usama Akhtar</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ffcccc&amp;size=18&amp;lines=Hey!+It's+Malik+Usama!;Frontend+Web+Developer...🏻‍💻;" style="width: 100%;">
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
