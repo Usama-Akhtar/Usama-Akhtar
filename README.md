@@ -13,7 +13,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, and WordPress**
 
 - 📫 How to reach me **malikusama364585@gmail.com**
-- <br>
+  <br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/muhammad-usama-akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Usama Akhtar" height="30" width="40" /></a>
 <a href="https://instagram.com/malikusama364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malikusama" height="30" width="40" /></a>
